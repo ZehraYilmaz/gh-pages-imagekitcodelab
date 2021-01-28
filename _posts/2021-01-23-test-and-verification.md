@@ -6,13 +6,13 @@ description: 5
 After the project is imported, connect your mobile device to the PC and enable the USB debugging mode. In the Android Studio window, click 
 
 <div style="padding: 5px">
-        <img style="width: 100.00px ; padding: 5px" src="https://raw.githubusercontent.com/ZehraYilmaz/gh-pages-imagekitcodelab/gh-pages/assets/image_kit_codelab_doc_ss_1.png">
+        <img style="width: 50.00px ; padding: 5px" src="https://raw.githubusercontent.com/ZehraYilmaz/gh-pages-imagekitcodelab/gh-pages/assets/image_kit_codelab_doc_ss_1.png">
 </div>
 
 to run the project you have created in Android Studio to generate an APK. Then install the APK on the mobile device.
 
 <div style="padding: 5px">
-        <img style="width: 100.00px ; padding: 5px" src="https://raw.githubusercontent.com/ZehraYilmaz/gh-pages-imagekitcodelab/gh-pages/assets/image_kit_codelab_app_ss_1.png">
+        <img style="width: 300.00px ; padding: 5px" src="https://raw.githubusercontent.com/ZehraYilmaz/gh-pages-imagekitcodelab/gh-pages/assets/image_kit_codelab_app_ss_1.png">
 </div>
 
 1. Click INIT_SERVICE. If the result code is 0, the initialization is successful.
