@@ -1,4 +1,4 @@
-title: "Use Image SDK:  Advanced Drill "
+title: "Use Image SDK:Advanced Drill "
 description: 20
 
 ##### **Step 1**: Import the Image Vision service package
