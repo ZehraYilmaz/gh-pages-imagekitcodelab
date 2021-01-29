@@ -8,7 +8,7 @@ description: 1
 
  
 
-You can download the source code in [github.com/Huawei/Consumer/tree/master/Codelabs/]
+You can download the source code in [github.com/Huawei/Consumer/tree/master/Codelabs/]()
 
  
 
@@ -16,4 +16,4 @@ You can also click the button below to download the source code.
 
  
 
-##### [Download]
+##### [Download]()
