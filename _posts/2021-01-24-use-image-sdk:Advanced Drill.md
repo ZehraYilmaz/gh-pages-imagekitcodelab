@@ -81,11 +81,9 @@ Description of **responseJson** parameters:
  For details, see the description of **authJson** parameters in step 3.
  **filterType** mapping:
 
-| 1               | 2           | 3         | 4         | 5    | 6              | 7                 | 8                  | 9            | 10          | 11          | 12           |
-| --------------- | ----------- | --------- | --------- | ---- | -------------- | ----------------- | ------------------ | ------------ | ----------- | ----------- | ------------ |
-| Black-and-white | Brown  tone | Lazy      | Freesia   | Fuji | Peach  pink    | Sea salt          | Mint               | Reed         | Vintage     | Marshmallow | Moss         |
-| 13              | 14          | 15        | 16        | 17   | 18             | 19                | 20                 | 21           | 22          | 23          | 24           |
-| Sunlight        | Time        | Haze blue | Sunflower | Hard | Bronze  yellow | Monochromic  tone | Yellow-green  tone | Yellow  tone | Green  tone | Cyan tone   | Violet  tone |
+<div style="padding: 5px">
+        <img style="width: 100.00px ; padding: 5px" src="https://raw.githubusercontent.com/ZehraYilmaz/gh-pages-imagekitcodelab/gh-pages/assets/image_kit_codelab_doc_ss_2.png">
+</div>
 
 **Step 5: Obtain the rendered image**
 
