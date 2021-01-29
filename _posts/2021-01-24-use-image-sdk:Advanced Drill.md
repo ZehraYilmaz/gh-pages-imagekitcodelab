@@ -82,7 +82,7 @@ Description of **responseJson** parameters:
  **filterType** mapping:
 
 <div style="padding: 5px">
-        <img style="width: 100.00px ; padding: 5px" src="https://raw.githubusercontent.com/ZehraYilmaz/gh-pages-imagekitcodelab/gh-pages/assets/image-kit-codelab-doc-ss-2.png">
+        <img style="width: 500.00px ; padding: 5px" src="https://raw.githubusercontent.com/ZehraYilmaz/gh-pages-imagekitcodelab/gh-pages/assets/image-kit-codelab-doc-ss-2.png">
 </div>
 
 **Step 5: Obtain the rendered image**
